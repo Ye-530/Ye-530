@@ -18,7 +18,7 @@ jobs:
       - name: Generate snake images
         uses: Platane/snk@v3
         with:
-          github_user_name: Catiel
+          github_user_name: Ye-530
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
